@@ -20,3 +20,5 @@ To disable Arduino: Connect reset (RST) to ground (GND).
 # Ref:
 https://www.youtube.com/watch?v=Sb08leLWOgA
 
+# Application:
+https://www.hackster.io/anatoli-arkhipenko/minecraft-interactive-do-not-enter-sword-sign-esp32-cam-cd1b07
