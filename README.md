@@ -1,4 +1,4 @@
-# Flashing ESP-32 using Arduino
+# Flashing ESP-32 CAM using Arduino
 ## Diagram using Arduino
 <img width="1088" alt="image" src="https://user-images.githubusercontent.com/21049491/210285367-fada4a82-42ab-44bf-98cd-ad4d25931878.png">
 
